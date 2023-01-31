@@ -1,0 +1,11 @@
+#ifndef IOCTL_COMMANDS
+#define IOCTL_COMMANDS
+
+#define DEVICE_COUNT 2
+
+#define GET_BUFFER_SIZE 5
+#define SET_BUFFER_SIZE 6
+#define GET_MAXREADERS_COUNT 7
+#define SET_MAXREADERS_COUNT 8
+
+#endif
